@@ -1,4 +1,8 @@
 # Hello-World
 My first repository.
 don't worry be happy!
-master
+<<<<<<< HEAD
+dev
+=======
+dev
+>>>>>>> dev
